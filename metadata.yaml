@@ -1,11 +1,16 @@
 _repo: This-Way-To-the-Egress_61332
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61332-h/images/cover.jpg
 creator:
   author:
     agent_name: Fetler, Andrew
     gutenberg_agent_id: '46330'
     url: http://www.gutenberg.org/2009/agents/46330
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61332#This-Way-To-the-Egress
 gutenberg_issued: '2020-02-06'
 gutenberg_type: Text
 identifiers:
